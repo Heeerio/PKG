@@ -3,6 +3,8 @@
   Projekt gry typu puzzle game, wykonany w silniku Unreal Engine 5 w ramach przedmiotu Programowanie Gier Komputerowych na Politechnice Świętokrzyskiej w Kielcach.
 
   Gra stawia na immersję, eksplorację oraz logiczne myślenie – gracz musi rozwiązać serię zagadek, aby wydostać się z zamkniętej lokacji.
+  
+  ---
 
 **Informacje ogólne**
 
@@ -16,6 +18,8 @@
 
   Przedmiot: Programowanie Gier Komputerowych
 
+  ---
+
 **Autorzy:**
 
   Mikołaj Wiewióra
@@ -25,6 +29,8 @@
   Jakub Ślusarczyk
 
   Filip Turno
+
+  ---
 
 **Opis projektu**
 
@@ -37,6 +43,8 @@
   rozwiązywanie logicznych zagadek
 
   stopniowo odkrywa drogę do wyjścia z zamkniętej lokacji.
+
+  ---
 
 **Sterowanie**
 
@@ -52,6 +60,8 @@
 
   Menu pauzy: L
 
+  ---
+
 **Interakcje i mechaniki**
 
   Podnoszenie przedmiotów
@@ -62,6 +72,8 @@
 
   System kolizji i animacji zapewniający płynną rozgrywkę
 
+  ---
+
 **Zagadki:**
 
   Zagadka kolorów – odblokowanie latarki UV
@@ -71,6 +83,8 @@
   Kod do labiryntu – numpad z obsługą błędnych/poprawnych prób
 
   Labirynt – odnalezienie 6 kluczy umożliwiających ucieczkę
+
+  ---
 
 **Interfejs:
 **
@@ -93,6 +107,7 @@
 
 <img width="600" height="280" alt="image" src="https://github.com/user-attachments/assets/aeaa916c-be17-4db4-b177-f9fa57211112" />
 
+---
 
 **Przebieg rozgrywki**
 
