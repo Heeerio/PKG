@@ -1,6 +1,6 @@
-🎮 Escape Room Puzzle Game (Unreal Engine 5)
+🎮Puzzle Game (Unreal Engine 5)
 
-Projekt gry typu puzzle / escape room, wykonany w silniku Unreal Engine 5 w ramach przedmiotu Programowanie Gier Komputerowych na Politechnice Świętokrzyskiej w Kielcach.
+Projekt gry typu puzzle game, wykonany w silniku Unreal Engine 5 w ramach przedmiotu Programowanie Gier Komputerowych na Politechnice Świętokrzyskiej w Kielcach.
 
 Gra stawia na immersję, eksplorację oraz logiczne myślenie – gracz musi rozwiązać serię zagadek, aby wydostać się z zamkniętej lokacji.
 
@@ -37,9 +37,7 @@ interakcję z obiektami,
 rozwiązywanie logicznych zagadek
 
 stopniowo odkrywa drogę do wyjścia z zamkniętej lokacji.
-Projekt realizowany był iteracyjnie (sprinty), zgodnie z dobrymi praktykami pracy zespołowej.
 
-⚙️ Funkcjonalności gry
 🎮 Sterowanie
 
 Poruszanie się: W / A / S / D
