@@ -89,10 +89,16 @@ Menu główne
 
 
 Menu pauzy
+<img width="1892" height="985" alt="image" src="https://github.com/user-attachments/assets/bbc453b3-a98f-4a68-aa67-ec85a7ddc825" />
+
 
 Widoczne podpowiedzi sterowania
+<img width="293" height="195" alt="image" src="https://github.com/user-attachments/assets/80e0219c-b095-48e4-85a5-1f8f402d3a20" />
 
-Ekran końcowy po ukończeniu gry
+
+Ekran rozgrywki
+<img width="600" height="280" alt="image" src="https://github.com/user-attachments/assets/aeaa916c-be17-4db4-b177-f9fa57211112" />
+
 
 🕹️ Przebieg rozgrywki
 
