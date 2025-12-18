@@ -1,4 +1,4 @@
-Puzzle Game (Unreal Engine 5)
+**Puzzle Game (Unreal Engine 5)**
 
 Projekt gry typu puzzle game, wykonany w silniku Unreal Engine 5 w ramach przedmiotu Programowanie Gier Komputerowych na Politechnice Świętokrzyskiej w Kielcach.
 
