@@ -85,6 +85,8 @@ Dźwięk tła wzmacniający immersję
 🖥️ Interfejs
 
 Menu główne
+<img width="1847" height="949" alt="image" src="https://github.com/user-attachments/assets/c9d4bef6-50c9-4eed-991c-404381d7c272" />
+
 
 Menu pauzy
 
